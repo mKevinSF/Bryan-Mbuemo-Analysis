@@ -1,0 +1,2 @@
+# Data-Driven Transfer Analysis: Bryan Mbuemo to Manchester United
+This project analyzes the performance and playing style of Bryan Mbuemo during his time at Brentford using data from FBref. By comparing his key stats with current Manchester United wingers, the project aims to evaluate whether Mbuemo would be suitable transfer target for the club based on tactical fit, output efficiency, and playing characteristics.
