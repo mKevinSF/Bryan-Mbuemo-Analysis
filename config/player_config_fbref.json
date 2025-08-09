@@ -1,0 +1,32 @@
+{
+    "players": [
+        {
+            "name": "Bryan Mbeumo",
+            "slug": "6afaebf2",
+            "team": "Brentford",
+            "position": "Right Winger",
+            "scout_id": "12524"
+        },
+        {
+            "name": "Alejandro Garnacho",
+            "slug": "7aa8adfe",
+            "team": "Manchester United",
+            "position": "Left Winger",
+            "scout_id": "12524"
+        },
+        {
+            "name": "Amad Diallo",
+            "slug": "9dc96f10",
+            "team": "Manchester United",
+            "position": "Right Winger",
+            "scout_id": "12524"
+        },
+        {
+            "name": "Marcus Rashford",
+            "slug": "a1d5bd30",
+            "team": "Manchester United",
+            "position": "Left Winger",
+            "scout_id": "12524"
+        }
+    ]
+}

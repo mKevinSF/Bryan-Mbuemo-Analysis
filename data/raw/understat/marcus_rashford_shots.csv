@@ -1,0 +1,36 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+590482,39,SavedShot,0.9459999847412109,0.35400001525878905,0.12860620021820068,Marcus Rashford,a,556,OpenPlay,2024,RightFoot,26632,Southampton,Manchester United,0,3,2024-09-14 11:30:00,Amad Diallo Traore,Pass
+590483,40,Goal,0.8169999694824219,0.71,0.02122362144291401,Marcus Rashford,a,556,FromCorner,2024,RightFoot,26632,Southampton,Manchester United,0,3,2024-09-14 11:30:00,Amad Diallo Traore,Pass
+590487,50,BlockedShot,0.865,0.6220000076293946,0.094303660094738,Marcus Rashford,a,556,OpenPlay,2024,RightFoot,26632,Southampton,Manchester United,0,3,2024-09-14 11:30:00,Christian Eriksen,Pass
+590488,59,SavedShot,0.7619999694824219,0.73,0.01579022966325283,Marcus Rashford,a,556,OpenPlay,2024,RightFoot,26632,Southampton,Manchester United,0,3,2024-09-14 11:30:00,,None
+595999,4,SavedShot,0.8780000305175781,0.634000015258789,0.17595557868480682,Marcus Rashford,a,556,OpenPlay,2024,RightFoot,26670,Aston Villa,Manchester United,0,0,2024-10-06 13:00:00,,TakeOn
+596006,48,SavedShot,0.8019999694824219,0.65,0.03249828517436981,Marcus Rashford,a,556,OpenPlay,2024,RightFoot,26670,Aston Villa,Manchester United,0,0,2024-10-06 13:00:00,Kobbie Mainoo,Pass
+597038,83,BlockedShot,0.904000015258789,0.29399999618530276,0.06362666189670563,Marcus Rashford,h,556,OpenPlay,2024,RightFoot,26675,Manchester United,Brentford,2,1,2024-10-19 14:00:00,Christian Eriksen,Pass
+597041,88,BlockedShot,0.9519999694824218,0.3220000076293945,0.07091353833675385,Marcus Rashford,h,556,OpenPlay,2024,RightFoot,26675,Manchester United,Brentford,2,1,2024-10-19 14:00:00,,None
+600839,46,ShotOnPost,0.924000015258789,0.36900001525878906,0.2514970600605011,Marcus Rashford,h,556,OpenPlay,2024,RightFoot,26697,Manchester United,Chelsea,1,1,2024-11-03 16:30:00,Bruno Fernandes,Cross
+600842,58,SavedShot,0.8019999694824219,0.7069999694824218,0.021217459812760353,Marcus Rashford,h,556,FromCorner,2024,RightFoot,26697,Manchester United,Chelsea,1,1,2024-11-03 16:30:00,Bruno Fernandes,Pass
+603534,1,Goal,0.9369999694824219,0.46799999237060547,0.44502103328704834,Marcus Rashford,a,556,OpenPlay,2024,LeftFoot,26718,Ipswich,Manchester United,1,1,2024-11-24 16:30:00,Amad Diallo Traore,Cross
+604655,33,Goal,0.8619999694824219,0.425,0.04211609065532684,Marcus Rashford,h,556,FromCorner,2024,RightFoot,26727,Manchester United,Everton,4,0,2024-12-01 13:30:00,Bruno Fernandes,Cross
+604658,45,Goal,0.92,0.3679999923706055,0.32526683807373047,Marcus Rashford,h,556,OpenPlay,2024,RightFoot,26727,Manchester United,Everton,4,0,2024-12-01 13:30:00,Amad Diallo Traore,Pass
+604661,53,BlockedShot,0.899000015258789,0.28600000381469726,0.10187027603387833,Marcus Rashford,h,556,OpenPlay,2024,RightFoot,26727,Manchester United,Everton,4,0,2024-12-01 13:30:00,Amad Diallo Traore,Pass
+604666,84,MissedShots,0.8109999847412109,0.49700000762939456,0.10621335357427597,Marcus Rashford,h,556,OpenPlay,2024,RightFoot,26727,Manchester United,Everton,4,0,2024-12-01 13:30:00,Joshua Zirkzee,Pass
+606012,94,BlockedShot,0.8190000152587891,0.5720000076293945,0.04348764196038246,Marcus Rashford,h,556,SetPiece,2024,RightFoot,26744,Manchester United,Nottingham Forest,2,3,2024-12-07 17:30:00,,None
+617147,48,SavedShot,0.8440000152587891,0.735999984741211,0.028408117592334747,Marcus Rashford,h,556,OpenPlay,2024,RightFoot,26842,Aston Villa,Ipswich,1,1,2025-02-15 15:00:00,John McGinn,Pass
+617152,68,ShotOnPost,0.745,0.595999984741211,0.05535156652331352,Marcus Rashford,h,556,DirectFreekick,2024,RightFoot,26842,Aston Villa,Ipswich,1,1,2025-02-15 15:00:00,,Standard
+617160,82,BlockedShot,0.81,0.6969999694824218,0.03566625714302063,Marcus Rashford,h,556,FromCorner,2024,RightFoot,26842,Aston Villa,Ipswich,1,1,2025-02-15 15:00:00,Ian Maatsen,Pass
+617161,83,MissedShots,0.905,0.6569999694824219,0.05859559401869774,Marcus Rashford,h,556,SetPiece,2024,LeftFoot,26842,Aston Villa,Ipswich,1,1,2025-02-15 15:00:00,,None
+618087,49,BlockedShot,0.914000015258789,0.8869999694824219,0.08314178884029388,Marcus Rashford,h,556,OpenPlay,2024,RightFoot,26884,Aston Villa,Liverpool,2,2,2025-02-19 15:00:00,Lucas Digne,TakeOn
+618673,74,BlockedShot,0.8430000305175781,0.7130000305175781,0.030976295471191406,Marcus Rashford,h,556,OpenPlay,2024,RightFoot,26854,Aston Villa,Chelsea,2,1,2025-02-22 17:30:00,Youri Tielemans,Pass
+618679,92,BlockedShot,0.860999984741211,0.6669999694824219,0.08341330289840698,Marcus Rashford,h,556,OpenPlay,2024,RightFoot,26854,Aston Villa,Chelsea,2,1,2025-02-22 17:30:00,Marco Asensio,TakeOn
+625193,11,MissedShots,0.8930000305175781,0.6220000076293946,0.07051591575145721,Marcus Rashford,a,556,OpenPlay,2024,RightFoot,26893,Brighton,Aston Villa,0,3,2025-04-02 19:45:00,Boubacar Kamara,Chipped
+625200,50,Goal,0.8019999694824219,0.4620000076293945,0.39649662375450134,Marcus Rashford,a,556,OpenPlay,2024,RightFoot,26893,Brighton,Aston Villa,0,3,2025-04-02 19:45:00,Morgan Rogers,Throughball
+625875,68,MissedShots,0.874000015258789,0.655,0.08775713294744492,Marcus Rashford,h,556,OpenPlay,2024,RightFoot,26902,Aston Villa,Nottingham Forest,2,1,2025-04-05 16:30:00,Boubacar Kamara,Pass
+625885,91,SavedShot,0.9080000305175782,0.6170000076293946,0.32992908358573914,Marcus Rashford,h,556,OpenPlay,2024,RightFoot,26902,Aston Villa,Nottingham Forest,2,1,2025-04-05 16:30:00,John McGinn,Throughball
+627153,0,BlockedShot,0.8590000152587891,0.27100000381469724,0.03621625900268555,Marcus Rashford,a,556,OpenPlay,2024,RightFoot,26921,Southampton,Aston Villa,0,3,2025-04-12 14:00:00,Youri Tielemans,Chipped
+627155,8,SavedShot,0.9169999694824219,0.40099998474121096,0.038967132568359375,Marcus Rashford,a,556,OpenPlay,2024,Head,26921,Southampton,Aston Villa,0,3,2025-04-12 14:00:00,Amadou Onana,Chipped
+627162,32,BlockedShot,0.7530000305175781,0.639000015258789,0.01730348728597164,Marcus Rashford,a,556,SetPiece,2024,RightFoot,26921,Southampton,Aston Villa,0,3,2025-04-12 14:00:00,Tyrone Mings,Pass
+627176,64,MissedShots,0.7240000152587891,0.664000015258789,0.03851277753710747,Marcus Rashford,a,556,DirectFreekick,2024,RightFoot,26921,Southampton,Aston Villa,0,3,2025-04-12 14:00:00,,Standard
+629582,0,ShotOnPost,0.8769999694824219,0.6170000076293946,0.3038172423839569,Marcus Rashford,a,556,OpenPlay,2024,LeftFoot,26937,Manchester City,Aston Villa,2,1,2025-04-22 19:00:00,Youri Tielemans,Pass
+629584,17,Goal,0.885,0.5,0.7611688375473022,Marcus Rashford,a,556,Penalty,2024,RightFoot,26937,Manchester City,Aston Villa,2,1,2025-04-22 19:00:00,,Standard
+629590,38,SavedShot,0.924000015258789,0.65,0.29006728529930115,Marcus Rashford,a,556,OpenPlay,2024,RightFoot,26937,Manchester City,Aston Villa,2,1,2025-04-22 19:00:00,Lucas Digne,Chipped
+629597,62,MissedShots,0.9680000305175781,0.28399999618530275,0.30013084411621094,Marcus Rashford,a,556,OpenPlay,2024,RightFoot,26937,Manchester City,Aston Villa,2,1,2025-04-22 19:00:00,Morgan Rogers,Throughball

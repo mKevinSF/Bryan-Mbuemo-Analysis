@@ -1,0 +1,20 @@
+{
+    "players": [
+        {
+            "name": "Bryan Mbeumo",
+            "understat_id": "6552"
+        },
+        {
+            "name": "Amad Diallo",
+            "understat_id": "8127"
+        },
+        {
+            "name": "Alejandro Garnacho",
+            "understat_id": "10552"
+        },
+        {
+            "name": "Marcus Rashford",
+            "understat_id": "556"
+        }
+    ]
+}
